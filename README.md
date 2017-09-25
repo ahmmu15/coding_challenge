@@ -1,18 +1,16 @@
 # Coding Challenge
-We want you to create a simple page that lists some users in a table. We have provided you with a simple backend that should contain everything for you to get started. The list must contain the 
+We want you to create a simple page that lists some users in a table. We have provided you with a simple backend that should contain everything for you to get started. The list must contain the:
 
-- users name, 
-- username, 
-- email, 
+- users name
+- username
+- email
 - phone number 
 - company
 
 The backend has two endpoints: 
 * `/` Is the root of the application, this will return an empty HTML page with some links to a CSS and JavaScript file. It's up for you to write some code in these files for everything to work
 
-=====================
-USE THIS API
-=====================
+## Use this API
 * `/api/users`
  Is an enpoint which returns a JSON collection with 10 users
 
